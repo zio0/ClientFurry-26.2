@@ -1,0 +1,4 @@
+{
+  "module_enable": { "sounds": ["furryhook:module_enable"] },
+  "module_disable": { "sounds": ["furryhook:module_disable"] }
+}

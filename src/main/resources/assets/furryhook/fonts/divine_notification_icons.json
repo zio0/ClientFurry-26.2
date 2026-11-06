@@ -1,0 +1,14 @@
+{
+  "atlas": {"distanceRange": 10, "size": 48, "width": 448, "height": 64},
+  "metrics": {"lineHeight": 1.0, "ascender": 0.8, "descender": -0.2},
+  "glyphs": [
+    {"unicode":66,"advance":1.0,"planeBounds":{"left":0.0,"top":0.8,"right":1.0,"bottom":-0.2},"atlasBounds":{"left":8,"top":56,"right":56,"bottom":8}},
+    {"unicode":67,"advance":1.0,"planeBounds":{"left":0.0,"top":0.8,"right":1.0,"bottom":-0.2},"atlasBounds":{"left":72,"top":56,"right":120,"bottom":8}},
+    {"unicode":74,"advance":1.0,"planeBounds":{"left":0.0,"top":0.8,"right":1.0,"bottom":-0.2},"atlasBounds":{"left":136,"top":56,"right":184,"bottom":8}},
+    {"unicode":73,"advance":1.0,"planeBounds":{"left":0.0,"top":0.8,"right":1.0,"bottom":-0.2},"atlasBounds":{"left":200,"top":56,"right":248,"bottom":8}},
+    {"unicode":68,"advance":1.0,"planeBounds":{"left":0.0,"top":0.8,"right":1.0,"bottom":-0.2},"atlasBounds":{"left":264,"top":56,"right":312,"bottom":8}},
+    {"unicode":69,"advance":1.0,"planeBounds":{"left":0.0,"top":0.8,"right":1.0,"bottom":-0.2},"atlasBounds":{"left":328,"top":56,"right":376,"bottom":8}},
+    {"unicode":71,"advance":1.0,"planeBounds":{"left":0.0,"top":0.8,"right":1.0,"bottom":-0.2},"atlasBounds":{"left":392,"top":56,"right":440,"bottom":8}}
+  ],
+  "kerning": []
+}

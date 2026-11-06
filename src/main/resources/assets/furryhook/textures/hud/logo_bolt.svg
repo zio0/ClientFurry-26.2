@@ -1,0 +1,9 @@
+<svg viewBox="0 0 19.3711 20.8607" xmlns="http://www.w3.org/2000/svg" width="19.371094" height="20.860718" fill="none">
+    <defs>
+        <radialGradient id="blade_logo_fill" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(16.4188,-16.4188,16.4188,16.4188,19.4344,20.7748)">
+            <stop stop-color="#ffffff" offset="0"/>
+            <stop stop-color="#ffffff" offset="1"/>
+        </radialGradient>
+    </defs>
+    <path d="M3.4378 5.00131L0 9.54197L1.85112 4.14582L13.3545 0L19.3707 1.77678L11.3712 9.54197L14.7429 12.0426L1.1239 20.8607L7.86727 14.6091L5.68559 12.7007L12.429 2.82969L3.4378 5.00131Z" fill="url(#blade_logo_fill)" fill-rule="evenodd"/>
+</svg>

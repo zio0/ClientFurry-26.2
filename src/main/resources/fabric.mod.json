@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "furryhook",
+  "version": "${version}",
+  "name": "furryhook.win",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/furryhook/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "win.furryhook.Furryhook"
+    ]
+  },
+  "jars": [],
+  "mixins": [
+    "furryhook.mixins.json"
+  ],
+  "accessWidener": "furryhook.accesswidener",
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "baritone": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
